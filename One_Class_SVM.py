@@ -1,6 +1,5 @@
 """
 Created on Mon Apr 29 05:21:13 2019
-@author: saif
 """
 import numpy as np
 from dipy.viz import window, actor
