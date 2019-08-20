@@ -1,1 +1,1 @@
-# iccit2019
+# One-Class SVM for Human Brain Segmentation
